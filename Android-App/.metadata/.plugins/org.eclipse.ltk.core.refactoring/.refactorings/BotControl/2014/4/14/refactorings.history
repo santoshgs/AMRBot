@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Widget Type" description="Change Widget Type" file="/BotControl/res/layout/fragment_option_detail.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.changeview" proj="/BotControl" sel-end="423" sel-start="0" stamp="1396334704867" type="android.widget.TextView"/>
+</session>
